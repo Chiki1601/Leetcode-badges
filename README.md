@@ -1,4 +1,5 @@
-# Leetcode-badges![algorithm_I](https://user-images.githubusercontent.com/85725008/180791700-98d35da5-ba63-4157-b71b-724fa80a2ffc.png)
+# Leetcode-badges
+![algorithm_I](https://user-images.githubusercontent.com/85725008/180791700-98d35da5-ba63-4157-b71b-724fa80a2ffc.png)
 ![binary search](https://user-images.githubusercontent.com/85725008/180791732-ad77cece-fc59-4877-92d3-cf98a55cc44b.png)
 ![Binary_Search (Bronze)](https://user-images.githubusercontent.com/85725008/180791745-198d435d-195d-4eda-8f51-2d5f95f5539a.png)
 <img width="120" alt="dcc-2022-6" src="https://user-images.githubusercontent.com/85725008/180791793-b45a9ce6-b155-4162-b210-158fef827b81.png">
