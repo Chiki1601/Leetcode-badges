@@ -14,3 +14,6 @@
 ![programming skills](https://user-images.githubusercontent.com/85725008/180792751-f5adfce3-6983-4c26-992f-2eef00a41264.png)
 ![Programmung skills](https://user-images.githubusercontent.com/85725008/180792763-0cd023b4-95ab-4293-a296-7b0fb72a6360.png)
 ![SQLI](https://user-images.githubusercontent.com/85725008/180792770-cfa06962-c054-4878-a92a-53b8a2ddffb4.png)
+
+
+![LC-75](https://user-images.githubusercontent.com/85725008/181170871-db2db867-272d-4dd6-933c-b9db45c67b66.gif)
