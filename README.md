@@ -17,3 +17,4 @@
 
 
 ![LC-75](https://user-images.githubusercontent.com/85725008/181170871-db2db867-272d-4dd6-933c-b9db45c67b66.gif)
+<img width="120" alt="dcc-2022-7" src="https://user-images.githubusercontent.com/85725008/182011221-b7c8f22a-9f17-4c3e-8bc1-d55ca7f60e97.png">
