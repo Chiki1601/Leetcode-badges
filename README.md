@@ -18,3 +18,4 @@
 <img width="120" alt="dcc-2022-7" src="https://user-images.githubusercontent.com/85725008/182011221-b7c8f22a-9f17-4c3e-8bc1-d55ca7f60e97.png">
 
 ![2022-08](https://user-images.githubusercontent.com/85725008/187594655-07b9e1fc-ebbe-43fe-a8fb-24dc1b1013a8.gif)
+![2022-09](https://user-images.githubusercontent.com/85725008/193186572-fdc5271a-c79b-48da-a447-432c87fb98e2.gif)
