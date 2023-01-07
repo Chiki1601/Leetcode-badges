@@ -16,6 +16,9 @@
 ![SQLI](https://user-images.githubusercontent.com/85725008/180792770-cfa06962-c054-4878-a92a-53b8a2ddffb4.png)
 ![LC-75](https://user-images.githubusercontent.com/85725008/181170871-db2db867-272d-4dd6-933c-b9db45c67b66.gif)
 <img width="120" alt="dcc-2022-7" src="https://user-images.githubusercontent.com/85725008/182011221-b7c8f22a-9f17-4c3e-8bc1-d55ca7f60e97.png">
-
 ![2022-08](https://user-images.githubusercontent.com/85725008/187594655-07b9e1fc-ebbe-43fe-a8fb-24dc1b1013a8.gif)
 ![2022-09](https://user-images.githubusercontent.com/85725008/193186572-fdc5271a-c79b-48da-a447-432c87fb98e2.gif)
+<img width="120" alt="dcc-2022-10" src="https://user-images.githubusercontent.com/85725008/211144958-c9202b48-e316-4601-ada8-a849ab722640.png">
+<img width="120" alt="dcc-2022-11" src="https://user-images.githubusercontent.com/85725008/211144960-38e41b23-d931-4a7a-a5c1-db578a982609.png">
+![Uploading 2022-12.gif…]()
+![2022-annual-100](https://user-images.githubusercontent.com/85725008/211144968-a3226d60-e8f9-4e78-b202-ad0e3b3f4035.gif)
