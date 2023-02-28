@@ -24,3 +24,4 @@
 
 ![2022-annual-100](https://user-images.githubusercontent.com/85725008/211144968-a3226d60-e8f9-4e78-b202-ad0e3b3f4035.gif)
 ![2023-01](https://user-images.githubusercontent.com/85725008/215670769-e7bdbc2a-8b46-4f4e-b175-7668b76897a8.gif)
+![dcc-2023-2](https://user-images.githubusercontent.com/85725008/221754744-6e1f30f3-8f03-419c-8a19-93a9b09c55b5.png)
